@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./scrubit-backend-apis/scrubit_venv/Lib/site-packages"
+    ]
+}
